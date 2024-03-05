@@ -1,0 +1,6 @@
+Hello C0224G1
+git init: Khởi tạo local repository
+git add <tên-file>: đây file demo.txt vào staging area
+git commit -m "hello git": đưa thay đổi vào local repo, tạo 1 sanp shot lưu trữ lại lịch sử thay đổi
+git remote: kết nối local repo với remote repo
+git phsh origin master: đẩy code từ local repo lên remote repo
